@@ -74,7 +74,7 @@ columns_to_drop data is retained in the merged_garbage_data.csv to provide conte
 To modify chunk size, adjust chunksize in pd.read_csv() as needed.
 This README provides a comprehensive overview of the code, explaining each step and detailing the resulting files and their contents.
 
- ![image name](link to image path on GitHub).
+ ![pic](data-cleaning.png)
 
 
 
