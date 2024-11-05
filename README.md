@@ -1,4 +1,6 @@
 Data Cleaning Script for CSV Data
+
+
 This script processes and cleans a CSV file containing user data by validating email addresses and phone numbers, normalizing and formatting names, and separating valid data from invalid or incomplete entries. The clean data is saved to one CSV file, while the garbage data (containing invalid entries) is saved to another.
 
 Requirements
