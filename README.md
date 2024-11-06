@@ -79,5 +79,9 @@ A snippet of the merged cleaned data csv:
  ![pic](Singapore-clean.png)
 
 
+A snippet of the merged garbage data csv:
+
+![pic](Singapore-garbage.png)
+
 
 
