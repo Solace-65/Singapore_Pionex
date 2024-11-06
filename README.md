@@ -1,4 +1,4 @@
-                                             ![pic](Bitcoin.jpeg)
+                                             ![pic](Bitcoin.png)
 
 
 Data Cleaning Script for CSV Data
